@@ -9,7 +9,11 @@
   "categories": [
     "Other"
   ],
+  "icon": "./resource/logo.png",
   "main": "./extension.js",
+  "repository": {
+    "url": "https://github.com/mufidhadi/hello_mufid_vscode"
+  },
   "contributes": {
     "commands": [
       {
