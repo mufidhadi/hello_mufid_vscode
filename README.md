@@ -1,6 +1,6 @@
 # hellomufid
 
-![hello mufid](resource/logo.png)
+![hello mufid](./resource/logo.png)
 
 Extension "hellomufid" adds a small sidebar and webview panel that fetches and displays short "mupid jokes" from a remote API, allows opening a detailed view, and can insert the fetched text into the active editor.
 
